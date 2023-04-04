@@ -1,0 +1,32 @@
+.btn-blue {
+	background-color: #FFFFFF;
+	padding: 12px 17px;
+	border-radius: 5px;
+	font-weight: lighter;
+	font-family: 'Cormorant Garamond', cursive;
+	font-size: size 30px;
+	color: #2A6694;
+}
+.btn-blue:hover {
+	background-color:#FFFFFF  ;
+	color: #DD9787;
+}
+.btn-white {
+	background-color: #a4c5eb;
+	padding: 12px 17px;
+	border-radius: 5px;
+	font-weight: lighter;
+	font-family: 'Cormorant Garamond', cursive;
+	font-size: 35px;
+	color: #715741;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	height: 60px;
+
+}
+
+.btn-white:hover {
+	background-color:#715741 ;
+	color:  #cedff3;
+}

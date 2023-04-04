@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto&family=Tillana&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/items.css");
+@import url("components/names.css");
+@import url("button.html");
+
+
+body {
+
+	font-family: serif;
+	font-size: 19px;
+	margin: 0px auto;
+	background-color: #CEDFF3;
+	align-items: center;
+	color: #0E103D;
+}
+h1 {
+	font-family: 'Tillana', cursive;
+	font-weight: bold;
+	font-size: 40px;
+	color: #D07E6B;
+	align-items: center;
+}
+h2,h3,h4,h5,h6,h7,h8{
+	font-family: 'Times', cursive;
+	font-weight: bold;
+	font-size: 25px;
+	color: #D07E6B;
+	align-items: center;
+
+}
+a {
+text-decoration: none;
+}
+

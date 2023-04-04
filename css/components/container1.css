@@ -1,0 +1,19 @@
+.container2 {
+    width: 700px;
+  margin: 0 auto;
+  margin-top: 80px;
+}
+
+.container1 {
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 80px;
+  font-family: Lora, cursive;
+}
+
+.container1 {
+  text-align: center;
+}
+.container2 {
+  text-align: center;
+}
